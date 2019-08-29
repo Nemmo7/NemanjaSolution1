@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="googlesearch" storage="c:\nemanjatest1\googlesearch.orderedtest" id="c37aa520-64d1-4d62-beaa-c0d035b2eda9" continueAfterFailure="true" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="9f6c7804-9d3e-e2dc-22d0-f6d24068a8af" name="TEST_SearcForBg" storage="bin\debug\nemanjatest1.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>
